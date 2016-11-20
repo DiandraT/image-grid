@@ -53,7 +53,7 @@ img:last-child {
     display: block;
   }
 
-  img:nth-child(even){
+  img:nth-child(even) {
     float: left;
   }
 
@@ -88,5 +88,5 @@ img:last-child {
   img:last-child {
     display: block;
   }
-  
+
 }
